@@ -1,0 +1,14 @@
+.env
+../.idea/
+__pycache__/
+*.py[cod]
+*.sqlite3
+.venv/
+venv/
+env/
+.vscode/
+.DS_Store
+db.sqlite3
+media/
+staticfiles/# Created by venv; see https://docs.python.org/3/library/venv.html
+
